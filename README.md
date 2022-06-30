@@ -45,6 +45,7 @@ brew install openocd
 
 ### On Windows
 - Chocolately: https://chocolatey.org/install
+(follow individual install using admin powershell)
 - Git: https://git-scm.com/download/win. Make sure to click any boxes to add Git to your Environment (aka PATH)
 
 ## Install Dev environment and build
