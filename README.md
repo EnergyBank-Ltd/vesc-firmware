@@ -88,10 +88,11 @@ sudo udevadm trigger
 
 #### On Windows
 - Python 3: https://www.python.org/downloads/. Make sure to click the box to add Python3 to your Environment.
+- I used anaconda instead https://www.anaconda.com/.
 
 ### All platforms
 
-1.  `pip install aqtinstall`
+1.  `pip install aqtinstall`    (Note: On windows if you installed Python/anaconda 'for all users' you may need to append --user to the pip command). I ran both of these in an Anaconda powershell)
 2.  `make qt_install`
 
 ## Upload to VESC
